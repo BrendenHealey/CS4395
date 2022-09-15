@@ -18,5 +18,4 @@ tags:
   - one
   - assignmentone
 author: Brenden Healey
-paginate: false
 ---
