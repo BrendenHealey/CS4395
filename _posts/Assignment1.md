@@ -1,5 +1,5 @@
 ---
-date: 2022-09-14T19:57:05.000Z
+date: 2022-09-114T19:57:05.000Z
 layout: code
 title: Assignment 1
 subtitle: 'This is my first assignment for CS4395 at UTDallas.'
