@@ -1,6 +1,6 @@
 ---
 date: 2022-09-114T19:57:05.000Z
-layout: code
+layout: post
 title: Assignment 1
 subtitle: 'This is my first assignment for CS4395 at UTDallas.'
 description: >-
