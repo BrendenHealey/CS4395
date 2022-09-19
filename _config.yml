@@ -70,3 +70,5 @@ sass:
 
 # Plugins
 plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
