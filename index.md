@@ -11,5 +11,11 @@ This is my [first homework assignment.](https://github.com/BrendenHealey/CS4395/
 ### Assignment 2
 This is my [second homework assignment.](ExploringNLTK.pdf) In this assignment, I explore the Natural Language Toolkit.
 
-### Assignment 3
-Coming Soon
+### Guessing Game
+This is a [guessing game](https://github.com/BrendenHealey/CS4395/tree/main/GuessingGame) where a noun is taken at random from a list of 50 nouns, which have been processed from a given text. The player starts with 5 points. Each correct guess increases the score by 1 point, while each incorrect guess decreases the score by 1 point. If player has negative score, the game ends
+
+### WordNet
+My WordNet assignment is [available here](https://github.com/BrendenHealey/CS4395/tree/main/WordNet). This is a Jupyter notebook where I explore WordNet and SentiWordNet to understand the functionality and demonstrate basic skills.
+
+### N-Grams (COMING SOON)
+This is a program created with [a partner](https://github.com/tqyn117)
