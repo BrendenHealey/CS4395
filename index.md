@@ -18,4 +18,4 @@ This is a [guessing game](https://github.com/BrendenHealey/CS4395/tree/main/Gues
 My WordNet assignment is [available here](https://github.com/BrendenHealey/CS4395/tree/main/WordNet). This is a Jupyter notebook where I explore WordNet and SentiWordNet to understand the functionality and demonstrate basic skills.
 
 ### N-Grams (COMING SOON)
-This is a program created with [a partner](https://github.com/tqyn117)
+This is a program created with [my partner, Quy.](https://github.com/tqyn117) In this assignment we explore ngrams and calculate the probability of a sentence given a corpus of text.
