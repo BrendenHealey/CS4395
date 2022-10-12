@@ -121,6 +121,7 @@ def buildKnowledgeBase():
     }
     pickle.dump(knowledge_base, open('knowledge_base', 'wb'))
 
+    
 if __name__ == '__main__':
     # Topic is Horror film
     url_list = crawler("https://en.wikipedia.org/wiki/Horror_film")
