@@ -17,8 +17,17 @@ This is a [guessing game](https://github.com/BrendenHealey/CS4395/tree/main/Gues
 ### WordNet
 My WordNet assignment is [available here](https://github.com/BrendenHealey/CS4395/tree/main/WordNet). This is a Jupyter notebook where I explore WordNet and SentiWordNet to understand the functionality and demonstrate basic skills.
 
-### N-Grams (COMING SOON)
-This is a program created with [my partner, Quy.](https://github.com/tqyn117) In [this assignment](https://github.com/BrendenHealey/CS4395/tree/main/NGram) we explore ngrams and try to determine the language of an input text, using a model trained on a given corpus of text. 
+### N-Grams
+In [this assignment](https://github.com/BrendenHealey/CS4395/tree/main/NGram), I worked together with [my partner, Quy.](https://github.com/tqyn117) to explore N-Grams and calculate the probability of a sentence being a certain language given a corpus of text. For this assignment, we used 3 different languages including English, French, and Italian. Each of these languages had its own corpus. The assignment consist of 2 programs, the first program break down the corpus of each language, generating a set count of unigram and bigram. The second program take those set count of unigram and bigram to calculate the probabily of a sentence being a certain language.
 
 ### Building A Corpus
-This is another partner assignment, once again done with [Quy.](https://github.com/tqyn117) In [this assignment](https://github.com/BrendenHealey/CS4395/tree/main/BuildCorpus), we build a web crawler/scraper to crawl the web and build a corpus of text. We apply some processing to extract important words and build a dictionary of those words with facts relating to them.
+This is another partner assignment, once again done with [Quy.](https://github.com/tqyn117) In [this assignment](https://github.com/BrendenHealey/CS4395/tree/main/BuildCorpus), we build a web crawler/scraper to crawl the web and build a corpus of text. We apply some processing to extract important words and build a dictionary of those words with facts relating to them. Our custom design for the web crawler is to crawl through 20 unique URLs (some have the same domain) using a queue, a starter URL, and each URL it crawls to will add 3 more URLs into the queue.
+
+### Sentence Parsing
+In [this assignment](https://github.com/BrendenHealey/CS4395/blob/main/SyntaxParsing_BMH180001.pdf), I explore the pros and cons of PSG trees, dependency parsing, and SRL parsing.
+
+### Author Attribution
+In [this assignment](https://github.com/BrendenHealey/CS4395/tree/main/AuthorAttribution), I use Naive-Bayes, Logistic Regression, as well as Neural Networks to predict the authors of the Federalist papers. I was able to achieve an accuracy of around 94% using Naive-Bayes on a set of the 1000 most common words.
+
+### Chatbot (COMING SOON)
+
